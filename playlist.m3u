@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1,Russian Radio
-http://rusradio.hostingradio.ru/rusradio96.aacp
+https://rusradio.hostingradio.ru/rusradio128.mp3
 #EXTINF:-1,Hit FM
 http://hitfm.hostingradio.ru/hitfm96.aacp
-#EXTINF:-1,Radio Premium
-http://89.175.27.162:9000/aacp64
+#EXTINF:-1,Marusja FM
+https://spb1.radio-holding.ru/marusya_default
 #EXTINF:-1,Radio Kartina
 https://rs.kartina.tv/kartina_320kb
 #EXTINF:-1,Hajp FM
